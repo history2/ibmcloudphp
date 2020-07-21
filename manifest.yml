@@ -1,0 +1,6 @@
+---
+applications:
+- name: cf-ex-composer
+  memory: 64M
+  path: .
+  buildpack: php_buildpack
